@@ -21,7 +21,7 @@ button {
   border-radius: 8px;
   transition-duration: 0.5s;
 }
-button.hover {
+button:hover {
   border: black;
   color: black;
   background-color: white;
