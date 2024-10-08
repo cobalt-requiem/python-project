@@ -9,3 +9,20 @@ h1 {
 }
 body {
   background-color: black;
+button {
+  border: white;
+  color: white;
+  background-color: black;
+  font-family: courier;
+  text-align: center;
+  font-size: 16px;
+  padding: 12px 28px;
+  border-radius: 8px;
+  transition-duration: 0.5s;
+}
+button.hover {
+  border: black;
+  color: black;
+  background-color: white;
+}
+  
